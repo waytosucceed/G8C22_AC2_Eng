@@ -1,0 +1,55 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "<u>Distinguish facts from opinions</u>:<br><br>1)My aunt is taller than my mother.<br>2) My mother is a better homemaker than my aunt.",
+        "options": [
+            "1 is a fact",
+            "2 is an opinion",
+            "2 is both an opinion and a fact",
+            "Both a and b"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "<u>Select the best evidence for the following claim</u>:<br><br>Social media is disadvantageous.",
+        "options": [
+            "Social media has negative effects on our mental health.",
+            "Social media is designed to be engaging, which can lead to obsessive behaviour.",
+            "Both A and B ",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "<u>Compare the tone of the following sentences spoken consecutively by Holmes to Mrs. Stapleton.</u><br><br>1. You bear him no good will, madam.<br><br>2. “Tell us then where we shall find him.If you have ever aided him in evil, help us now and so <b>atone.</b>”<br><br>Which sentence is authoritative and commanding?",
+        "options": [
+            "Both 1 and 2",
+            "Only 1",
+            "Only 2",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "<u>Match the quotation with its theme:</u><br><br>1. So paralyzed were we by the apparition that we allowed him to pass before we had recovered our nerve.<br><br>2. Then Holmes and I both fired together, and the creature gave a hideous howl, which showed that one at least had hit him.",
+        "options": [
+            "1-horror, 2-fantasy",
+            "1-terror, 2-gothic",
+            "1-fantasy, 2-realism",
+            "1-horror and terror, 2- realism"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "<u>Choose the evidence for the following claim:</u><br><br>Punctuations are crucial in written texts:",
+        "options": [
+            "Punctuations affect the meaning of written texts.",
+            "Punctuation marks are graphically represented through emoticons in written texts ."
+        ],
+        "correct": 0
+    }
+]
